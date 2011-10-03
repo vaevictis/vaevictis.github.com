@@ -1,13 +1,11 @@
 ---
-layout: posts
+layout: detailed_post
 title: "What a thrill to be a developer"
 abstract: "Journée passionnante au programme. <br /> <br /> Après un week-end sous le signe du soleil et du vélo (comme d'hab me direz-vous), la reprise a vite fait d'être lassante."
+tags: ambiance, development, sproutcore
 ---
 
-Journée passionnante au programme.
-==================================
-
-Après un week-end sous le signe du soleil et du vélo (comme d'hab me direz-vous), la reprise a vite fait d'être lassante.
+Journée passionnante au programme.<br /> <br /> Après un week-end sous le signe du soleil et du vélo (comme d'hab me direz-vous), la reprise a vite fait d'être lassante.
 
 EIME ?
 en retard.
