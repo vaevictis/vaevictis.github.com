@@ -1,0 +1,64 @@
+html {
+  font-family: "Helvetica Neue", Arial, Helvetica
+}
+
+body {
+  width: 950px;
+  margin: 20px auto 0 auto;
+}
+
+ul#navigation {
+  font-weight: bold;
+  font-size: 14px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1px;
+}
+
+ul#navigation li {
+  display: inline-block;
+}
+
+ul#navigation li a {
+  font-size: 16px;
+  color: #4d4d4d;
+  text-decoration: none;
+  margin-right: 150px;
+}
+
+ul#navigation li a:hover {
+  border-bottom: 2px solid #d81e05;
+}
+
+h1 {
+  color: #ccc;
+  font-size: 34px;
+  font-weight: bold;
+  margin-bottom: 50px;
+  height: 140px;
+  background: url(../images/layout/red_square.jpg) right 1px no-repeat;
+}
+
+h1 span {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+h2 {
+  color: #666;
+  font-size: 18px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+
+#posts h3 {
+  color: #4d4d4d;
+  font-size: 21px;
+  font-weight: bold;
+  float: left;
+  width: 160px;
+}
+
+#posts p {
+  color: #666;
+}
