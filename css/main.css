@@ -58,8 +58,7 @@ h2 {
 }
 
 #posts li {
-  padding-bottom: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 #posts h3,
@@ -91,7 +90,7 @@ h2 {
   padding-left: 10px;
 }
 
-#posts p a {
+#posts p a.more {
   display: block;
   color: #999;
   font-weight: bold;
@@ -101,6 +100,30 @@ h2 {
   background: url(../images/layout/read_more_bullet.jpg) left top no-repeat;
 }
 
-#posts p a:hover {
+#posts p a.more:hover {
+  color: #d81e05;
+}
+
+#posts p.tags {
+  border-left: none;
+  font-size: 12px;
+  padding-left: 0;
+  padding-bottom: 22px;
+  border-bottom: 1px solid #ccc;
+  margin: 20px 0 0 225px;
+}
+
+#posts p.tags span {
+  font-weight: bold;
+  margin-right: 20px;
+  color: #4d4d4d;
+}
+
+#posts p.tags a {
+  color: #666;
+  text-decoration: none;
+}
+
+#posts p.tags a:hover {
   color: #d81e05;
 }
