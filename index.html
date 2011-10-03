@@ -1,14 +1,19 @@
 ---
-layout: default
+layout: news
 title: Build in progress...
 ---
 
 <ul id="posts">
   {% for post in site.posts %}
     <li>
-			<h3>{{post.title}}</h3>
-			<p>{{post.abstract}}</p>
-			<a href="{{ post.url }}">Read more...</a>
+			<h3>{{ post.title }}</h3>
+			<h4>
+				{{ post.date | date_to_string }}
+			</h4>
+			<p>
+				{{ post.abstract }}<br />
+				<a href="{{ post.url }}">More about this...</a>
+			</p>
 	</li>
   {% endfor %}
 </ul>
