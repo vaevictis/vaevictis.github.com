@@ -90,7 +90,8 @@ h2 {
   padding-left: 10px;
 }
 
-#posts p a.more {
+#posts a.more,
+#posts a.back {
   display: block;
   color: #999;
   font-weight: bold;
@@ -100,8 +101,13 @@ h2 {
   background: url(../images/layout/read_more_bullet.jpg) left top no-repeat;
 }
 
-#posts p a.more:hover {
+#posts p a.more:hover,
+#posts p a.back:hover {
   color: #d81e05;
+}
+
+#posts a.back {
+  margin-left: 220px;
 }
 
 #posts p.tags {
