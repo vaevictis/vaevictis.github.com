@@ -2,6 +2,12 @@ html {
   font-family: "Helvetica Neue", Arial, Helvetica
 }
 
+p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #666;
+}
+
 #navigation {
   border-bottom: 1px solid #ccc;
   padding-bottom: 1px;
@@ -27,7 +33,7 @@ html {
 }
 
 #navigation li a:hover {
-  border-bottom: 2px solid #d81e05;
+  border-bottom: 3px solid #d81e05;
 }
 
 #content {
@@ -83,9 +89,6 @@ h2 {
 
 #posts p {
   border-left: 2px solid #d81e05;
-  color: #666;
-  line-height: 22px;
-  font-size: 16px;
   margin-left: 210px;
   padding-left: 10px;
 }
@@ -132,4 +135,8 @@ h2 {
 
 #posts p.tags a:hover {
   color: #d81e05;
+}
+
+#about p {
+  margin-top: 20px;
 }
