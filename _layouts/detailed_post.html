@@ -1,9 +1,12 @@
 ---
 layout: news
 ---
+<style type="text/css">
+	#news_nav_link { border-bottom: 3px solid #4d4d4d;	}
+</style>
 
-	<h3>{{ page.title }}</h3>
-	<h4>{{ page.date | date_to_long_string }}</h4>
-	{{ content }}
+<h3>{{ page.title }}</h3>
+<h4>{{ page.date | date_to_long_string }}</h4>
+{{ content }}
 
-	<a class="back" href="/">Back...</a>
+<a class="back" href="/">Back...</a>

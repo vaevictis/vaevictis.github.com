@@ -4,7 +4,7 @@ html {
 
 p {
   font-size: 16px;
-  line-height: 22px;
+  line-height: 1.5;
   color: #666;
 }
 
@@ -64,6 +64,7 @@ h2 {
 }
 
 #posts li {
+  clear: left;
   margin-bottom: 40px;
 }
 
@@ -75,6 +76,7 @@ h2 {
 }
 
 #posts h3 {
+/*  margin-top: 30px;*/
   color: #4d4d4d;
   font-size: 26px;
 }
@@ -139,4 +141,29 @@ h2 {
 
 #about p {
   margin-top: 20px;
+}
+
+#experiences li {
+  margin-top: 20px;
+}
+
+#experiences h3 {
+  font-size: 17px;
+}
+
+#experiences h3 a {
+  color: #d81e05;
+  font-size: 17px;
+  margin-top: 6px;
+  text-decoration: none;
+  display: block;
+}
+
+#experiences h3 a:hover {
+  color: #ff9011;
+}
+
+#experiences h4 {
+  font-size: 14px;
+  margin-top: 10px;
 }
