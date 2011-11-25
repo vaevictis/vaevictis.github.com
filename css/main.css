@@ -102,7 +102,7 @@ h2 {
   text-decoration: none;
   margin-top: 20px;
   padding-left: 25px;
-  background: url(../images/layout/read_more_bullet.jpg) left top no-repeat;
+  background: url(../images/layout/bullet.jpg) left top no-repeat;
 }
 
 #posts p a.more:hover,
@@ -183,7 +183,7 @@ h2 {
 }
 
 #skills li {
-  list-style-image: ;
+  list-style-image: url(../images/layout/bullet_small.jpg);
 }
 
 #skills div.chapter {
