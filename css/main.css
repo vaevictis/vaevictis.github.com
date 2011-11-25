@@ -183,6 +183,8 @@ h2 {
 }
 
 #skills li {
+  margin-left :34px;
+  padding-left: 6px;
   list-style-image: url(../images/layout/bullet_small.jpg);
 }
 
