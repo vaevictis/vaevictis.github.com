@@ -1,0 +1,28 @@
+---
+layout: news
+---
+<style type="text/css">
+	#news_nav_link { border-bottom: 3px solid #4d4d4d;	}
+</style>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+			<h3>{{ post.title }}</h3>
+			<h4>
+				{{ post.date | date_to_long_string }}
+			</h4>
+			<p>
+				{{ post.abstract }}<br />
+				<a class="more" href="{{ post.url }}">Lire la suite...</a>
+			</p>
+			<p class="tags">
+				<span>Tags</span>
+
+				{% for tag in post.tags%}
+					<a href="#">{{ tag }}</a>
+				{% endfor %}
+			</p>
+	</li>
+  {% endfor %}
+</ul>

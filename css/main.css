@@ -29,7 +29,7 @@ p, ul {
   font-size: 16px;
   color: #4d4d4d;
   text-decoration: none;
-  margin-right: 150px;
+  margin-right: 152px;
 }
 
 #navigation li a:hover {
@@ -190,4 +190,17 @@ h2 {
 
 #skills div.chapter {
   margin-top: 20px;
+}
+
+#navigation li a.french_version {
+  display: block;
+  background: url(../images/layout/fr.png) left bottom no-repeat;
+  width: 24px;
+  height: 24px;
+  margin-right: 0;
+  border-bottom: none;
+}
+
+#navigation li a.french_version span {
+  display: none;
 }
