@@ -182,10 +182,19 @@ h2 {
   padding-left: 10px;
 }
 
-#skills li {
+#about ul {
+  margin: 10px 0 0 10px;
+  padding-left: 10px;
+}
+
+#skills li,
+#about li {
   margin-left :34px;
   padding-left: 6px;
   list-style-image: url(../images/layout/bullet_small.jpg);
+}
+#about strong {
+  font-weight: bold;
 }
 
 #skills div.chapter {
