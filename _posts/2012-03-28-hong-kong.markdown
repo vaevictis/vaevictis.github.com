@@ -1,0 +1,10 @@
+---
+layout: detailed_post
+title: "Hong Kong"
+abstract: "Bon, c'est pareil que Monaco. Avec plus d'industries dans le port et bien plus de monde qui grouille de partout."
+published: true
+---
+
+Bon, c'est pareil que Monaco. Avec plus d'industries dans le port et bien plus de monde qui grouille de partout.
+<br />
+[photo](http://twitpic.com/92ckrf)
