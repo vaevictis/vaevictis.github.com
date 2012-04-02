@@ -8,10 +8,12 @@ layout: news
 <ul>
   {% for post in site.posts %}
     <li>
-			<h3>{{ post.title }}</h3>
-			<h4>
-				{{ post.date | date_to_long_string }}
-			</h4>
+			<div class="titles">
+				<h3>{{ post.title }}</h3>
+				<h4>
+					{{ post.date | date_to_long_string }}
+				</h4>
+			</div>
 			<p>
 				{{ post.abstract }}<br />
 				<a class="more" href="{{ post.url }}">More about this...</a>

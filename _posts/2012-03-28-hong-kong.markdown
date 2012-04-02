@@ -5,6 +5,12 @@ abstract: "Bon, c'est pareil que Monaco. Avec plus d'industries dans le port et 
 published: true
 ---
 
-Bon, c'est pareil que Monaco. Avec plus d'industries dans le port et bien plus de monde qui grouille de partout.
+<a href="http://www.flickr.com/photos/ghammadi/6879761040/in/set-72157629327721644/lightbox">
+  <img src="http://farm8.staticflickr.com/7278/6879768036_a6dc75ed43.jpg" />
+</a>
+
+C'est bruyant.
 <br />
-[photo](http://www.flickr.com/photos/ghammadi/6879761040/in/set-72157629327721644/lightbox/)
+<br />
+
+Bon, c'est pareil que Monaco. Avec plus d'industries dans le port et bien plus de monde qui grouille de partout.

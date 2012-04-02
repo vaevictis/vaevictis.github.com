@@ -8,6 +8,11 @@ p, ul {
   color: #666;
 }
 
+a {
+  text-decoration: none;
+  color: #d81e05;
+}
+
 #navigation {
   border-bottom: 1px solid #ccc;
   padding-bottom: 1px;
@@ -67,12 +72,14 @@ h2 {
   clear: left;
   margin-bottom: 40px;
 }
+#posts div.titles {
+  float: left;
+}
 
 #posts h3,
 #posts h4 {
+  line-height: 1.5;
   font-weight: bold;
-  float: left;
-  width: 200px;
 }
 
 #posts h3 {
@@ -81,17 +88,20 @@ h2 {
 }
 
 #posts h4 {
-  clear: left;
-  margin-top: 20px;
   color: #999;
   font-size: 21px;
-
 }
 
 #posts p {
   border-left: 2px solid #d81e05;
   margin-left: 210px;
   padding-left: 10px;
+}
+
+#posts img {
+  vertical-align: top;
+  float: right;
+  width: 100px;
 }
 
 #posts a.more,
