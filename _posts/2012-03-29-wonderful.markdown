@@ -5,6 +5,8 @@ abstract: "WON-DER-FUL. Extraordinary."
 published: true
 ---
 
+[<img src="http://farm8.staticflickr.com/7117/6892605396_23a6726c9d_n.jpg">](http://www.flickr.com/photos/ghammadi/sets/72157629727577967/show/)
+
 Je ne sais pas par où commencer ce soir. C'est 23h, je suis mort, mais je ne peux pas fermer les yeux sans avoir couché quelques lignes à propos des gens que j'ai rencontrés ce soir.
 <br />
 <br />

@@ -5,9 +5,8 @@ abstract: "Bon, c'est pareil que Monaco. Avec plus d'industries dans le port et 
 published: true
 ---
 
-<a href="http://www.flickr.com/photos/ghammadi/6879761040/in/set-72157629327721644/lightbox">
-  <img src="http://farm8.staticflickr.com/7278/6879768036_a6dc75ed43.jpg" />
-</a>
+[<img src="http://www.flickr.com/photos/ghammadi/sets/72157629327721644/show/">](http://www.flickr.com/photos/ghammadi/6879761956/in/set-72157629327721644/lightbox/)
+
 
 C'est bruyant.
 <br />

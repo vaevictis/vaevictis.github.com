@@ -33,11 +33,11 @@ Mais pas que (ça serait trop simple).
 <br />
 <br />
 
-J'ai été calé sur un bureau dans une grande salle (la tronche de ses locaux, ils sont magnifiques), on m'a filé les identifiants pour la connexion internet, et un bout de gateau en attendant mon "entretien". Le fondateur est sorti de la salle de réu, puis et est allé dans son bureau. Devinez où ? Juste en face de moi. Au milieu de la salle des grouilleaux. En face de la salle dans laquelle tout le monde travaille, en fait.
+J'ai été calé sur un bureau dans une grande salle (les locaux sont magnifiques), on m'a filé les identifiants pour la connexion internet, et un bout de gâteau en attendant mon "entretien". Le fondateur est sorti de la salle de réu, pieds nus, puis et est allé dans son bureau. Devinez où ? Juste en face de moi. Au milieu de la salle des grouillots. Dans la salle dans laquelle tout le monde travaille, en fait.
 <br />
 <br />
 
-Enspiral, c'est une entreprise à direction démocratique. Au bout d'environ 6 mois de travail au sein du collectif, on obtient 1 point de vote. Et pas plus de points au bout de plus longtemps. Aujourd'hui, pour environ 50 personnes qui gravitent souvent autour des projets du collectif, et 50 personnes qui gravitent un cran plus loin (moins de participations), il y a 25 membres votants.
+Enspiral, c'est une entreprise à direction non-hiérarchique. Au bout d'environ 6 mois de travail au sein du collectif, on obtient 1 point de vote. Et pas plus de points au bout de plus longtemps. Aujourd'hui, pour environ 50 personnes qui gravitent souvent autour des projets du collectif, et 50 personnes qui gravitent un cran plus loin (moins de participations), il y a 25 membres votants.
 <br />
 <br />
 
