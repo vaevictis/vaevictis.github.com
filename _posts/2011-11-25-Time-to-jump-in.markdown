@@ -1,11 +1,12 @@
 ---
 layout: detailed_post
 title: "Time to jump in"
-abstract: "Canandian ambassy has opened its doors for Working Holiday Permits. <br /> The countdown has started. <br />
+abstract: "Canandian ambassy has opened its doors for Working Holiday Visas. <br /> The countdown has started. <br />
 A few months ago, I went to Vancouver. Marie had been there for 2 months and invited me to stay in her place. What else could I do than buying those plane tickets and racing there ?"
+published: false
 ---
 
-Canandian ambassy has opened its doors for Working Holiday Permits. <br /> The countdown has started. <br />
+Canandian ambassy has opened its doors for Working Holiday Visas. <br /> The countdown has started. <br />
 A few months ago, I went to Vancouver. Marie had been there for 2 months and invited me to stay in her place. What else could I do than buying those plane tickets and racing there ?
 Well, starting to think a bit more seriously about this spend-a-year-abroad idea of mine.
 <br />
