@@ -1,11 +1,11 @@
 ---
 layout: detailed_post
 title: "Dans les nuages"
-abstract: "J'ai visité une petite dizaine de collocations. Je crois que j'ai enfin trouvé la bonne. j'espère juste que les deux collocataires en place auront la même idée."
+abstract: "J'ai visité une petite dizaine de colocations. Je crois que j'ai enfin trouvé la bonne. J'espère juste que les deux colocataires déjà en place auront la même idée."
 published: true
 ---
 
-Depuis que je suis arrivé, j'ai visité une petite dizaine de collocations. Du mieux, du moins bien. Du sale, du propre, du grand, du petit, des gens dont je me suis senti proches, d'autres moins.
+Depuis que je suis arrivé, j'ai visité une petite dizaine de colocations. Du mieux, du moins bien. Du sale, du propre, du grand, du petit, des gens dont je me suis senti proches, d'autres moins.
 <br />
 <br />
 
@@ -19,7 +19,7 @@ Ce soir, la roue a tourné. Quinzième et dernier étage d'un bâtiment tout neu
 
 Un sauna dans le bâtiment. Oui, comme en Suède. Utilisation comprise dans les charges de l'appartement.
 
-Les deux collocs en place, Nick et Rachel, sont des geeks. Gros joueurs. une Xbox dans le salon. Des gros PC dans chaque chambre. des BDs, des bouquins de partout. On n'a pas traîné à se lancer dans de longues discussions passionnées sur tout un tas de sujets, en fait.
+Les deux colocs en place, Nick et Rachel, sont des geeks. Gros joueurs. une Xbox dans le salon. Des gros PC dans chaque chambre. des bd, des bouquins de partout. On n'a pas traîné à se lancer dans de longues discussions passionnées sur tout un tas de sujets, en fait.
 <br />
 <br />
 

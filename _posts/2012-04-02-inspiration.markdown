@@ -9,7 +9,7 @@ Aujourd'hui, j'étais chez Enspiral.
 <br />
 <br />
 
-Je suis sorti, après une grosse heure de discussion avec le fondateur (Joshua Vial), le principal responsable du développement commercial (Josh Forde), la responsable des ressources humaines (Alanna Krause) et un gars qui s'occupe de la communication de la boite (Tim je-ne-me-souviens-plus-de-son-nom-de-famille).
+Je suis sorti, après une grosse heure de discussion avec le fondateur (Joshua Vial), le principal responsable du développement commercial (Josh Forde), la responsable des ressources humaines (Alanna Krause) et un gars qui s'occupe de la communication de la boîte (Tim je-ne-me-souviens-plus-de-son-nom-de-famille).
 <br />
 <br />
 
@@ -17,7 +17,7 @@ Mais tous ces titres ne veulent rien dire.
 <br />
 <br />
 
-Ca fait des années que je me galère à expliquer pourquoi, au-delà du code que j'écris, des interfaces que je prototype, des clients avec qui je discute, des développeurs dont j'organise le travail, que je ne fais pas les choses de la manière la plus classique qui soit dans le milieu informatique. Je ne suis pas le seul, et on appelle en gros cette manière de faire les "méthodes agiles".
+Ca fait des années que je galère à expliquer pourquoi je ne fais pas les choses de la manière la plus classique qui soit dans le milieu informatique. Au-delà du code que j'écris, des interfaces que je prototype, des clients avec qui je discute, des développeurs dont j'organise le travail, Ce qui m'importe c'est la manière de faire. Je ne suis pas le seul, et on appelle ça (en gros) les "méthodes agiles".
 <br />
 <br />
 
@@ -33,19 +33,19 @@ Mais pas que (ça serait trop simple).
 <br />
 <br />
 
-J'ai été calé sur un bureau dans une grande salle (les locaux sont magnifiques), on m'a filé les identifiants pour la connexion internet, et un bout de gâteau en attendant mon "entretien". Le fondateur est sorti de la salle de réu, pieds nus, puis et est allé dans son bureau. Devinez où ? Juste en face de moi. Au milieu de la salle des grouillots. Dans la salle dans laquelle tout le monde travaille, en fait.
+J'ai été calé sur un bureau dans une grande salle (les locaux sont magnifiques), on m'a filé les identifiants pour la connexion internet, et un bout de gâteau en attendant mon "entretien". Le fondateur est sorti de la salle de réu, pieds nus, puis est allé dans son bureau. Devinez où ? Juste en face de moi. Au milieu de la salle des grouillots. Dans la salle dans laquelle tout le monde travaille, en fait.
 <br />
 <br />
 
-Enspiral, c'est une entreprise à direction non-hiérarchique. Au bout d'environ 6 mois de travail au sein du collectif, on obtient 1 point de vote. Et pas plus de points au bout de plus longtemps. Aujourd'hui, pour environ 50 personnes qui gravitent souvent autour des projets du collectif, et 50 personnes qui gravitent un cran plus loin (moins de participations), il y a 25 membres votants.
+Enspiral, c'est une entreprise à direction non-hiérarchique. Au bout d'environ 6 mois de travail au sein du collectif, on obtient 1 point de vote. Et pas plus de points au bout de plus longtemps. Aujourd'hui, pour environ 50 personnes qui gravitent souvent autour des projets du collectif, et 50 personnes qui gravitent un cran plus loin (participations moins régulières), il y a 25 membres votants.
 <br />
 <br />
 
-Je n'ai rien signé, mais d'ici la fin de la semaine je saurrai sur quel projet rémunéré je vais bosser pendant les 1, 2, 3 (plus ? c'est possible) ? prochains mois. Je commence a avoir une idée plus précise de ce que je vais gagner. J'ai été intégré au système centralisé de communication d'Enspiral.
+Je n'ai rien signé, mais d'ici la fin de la semaine je devrais savoir sur quel projet rémunéré je vais bosser pendant les 1, 2, 3 (peut-être plus) prochains mois. Je commence à avoir une idée plus précise de ce que je vais gagner. J'ai été intégré au système centralisé de communication d'Enspiral.
 <br />
 <br />
 
-Vous l'aurez compris, je n'ai rien signé mais je n'ai jamais eu aussi confiance dans les lendemains qui chantent que ce soir.
+Vous l'aurez compris, je n'ai rien signé mais j'ai rarement eu une telle confiance dans les lendemains qui chantent que ce soir.
 <br />
 <br />
 

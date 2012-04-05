@@ -23,11 +23,11 @@ Puis je file en ville, dans les locaux d'Enspiral. Là, j'ai un rendez-vous info
 <br />
 <br />
 
-Rappel.
+Quelques précisions supplémentaires au post précédent.
 <br />
 <br />
 
-Enspiral s'appuie sur une direction non hiérarchique et on cherche donc à faire avancer la boite ensemble, alors que plusieurs personnes sont aux 4 coins du monde. On veut à la fois avoir l'avis de tout un chacun et limiter l'inertie qui est habituellement associée à ces structures non hiérarchiques.
+Enspiral s'appuie sur une direction non hiérarchique et on cherche donc à faire avancer la boîte ensemble, alors que plusieurs personnes sont aux 4 coins du monde. On veut à la fois avoir l'avis de tout un chacun et limiter l'inertie qui est habituellement associée à ces structures non hiérarchiques.
 <br />
 <br />
 
@@ -43,7 +43,7 @@ Mais, pour l'instant, je ne suis pas payé.
 <br />
 <br />
 
-Pas de soucis. En parallèle de ça, sans doutes cet après-midi, je vais rencontrer le comptable et l'avocat de la boite. Son fonctionnement est un peu particulier, ma situation aussi. Donc la combinaison des deux donne des perspectives pas simples.
+Pas de soucis. En parallèle de ça, sans doute cet après-midi, je vais rencontrer le comptable et l'avocat de la boite. Son fonctionnement est un peu particulier, ma situation aussi. Donc la combinaison des deux donne des perspectives pas simples.
 <br />
 <br />
 
@@ -51,7 +51,7 @@ J'ai le choix d'être soit contractor, c'est à dire à mon compte, soit employe
 <br />
 <br />
 
-Bref, j'imagine que ça sera plus clair quand je j'aurai signé quelque chose et que je commencerai à bosser sur des projets rémunérés.
+Bref, j'imagine que ça sera plus clair quand j'aurai signé quelque chose et que je commencerai à bosser sur des projets rémunérés.
 <br />
 <br />
 
