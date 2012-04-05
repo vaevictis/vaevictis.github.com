@@ -5,7 +5,7 @@ abstract: "Bon, c'est pareil que Monaco. Avec plus d'industries dans le port et 
 published: true
 ---
 
-[<img src="http://farm8.staticflickr.com/7225/6879761956_62b611d359_n.jpg">](http://www.flickr.com/photos/ghammadi/6879761956/in/set-72157629327721644/lightbox/)
+[<img src="http://farm8.staticflickr.com/7225/6879761956_62b611d359_n.jpg">](http://www.flickr.com/photos/ghammadi/sets/72157629327721644/show/)
 
 
 C'est bruyant.
@@ -13,3 +13,11 @@ C'est bruyant.
 <br />
 
 Bon, c'est pareil que Monaco. Avec plus d'industries dans le port et bien plus de monde qui grouille de partout.
+<br />
+<br />
+
+D'improbables échaffaudages en bambou à 150m du sol. Du bruit. Des taxis rouges. Des français. Des trams. des vélos. Des scooters...
+<br />
+<br />
+
+Et un autre développeur.
