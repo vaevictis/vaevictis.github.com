@@ -5,6 +5,9 @@ abstract: "Toujours rien de signé... Mais beaucoup d'inspiration, d'espoir tant
 published: true
 ---
 
+[<img src="http://vaevictis.smugmug.com/Urban-walks/Wellington/i-WJ8zJ7f/0/S/DSC9720-S.jpg">](http://vaevictis.smugmug.com/Urban-walks/Wellington/22331655_LrDkQ4)
+
+
 Aujourd'hui, j'étais chez Enspiral.
 <br />
 <br />
