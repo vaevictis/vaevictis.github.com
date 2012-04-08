@@ -5,7 +5,8 @@ abstract: "L'avion a fait marche arrière et quitté le quai. Il s'est présent�
 published: true
 ---
 
-<img src="http://farm8.staticflickr.com/7278/6879768036_a6dc75ed43.jpg">
+[<img src="http://vaevictis.smugmug.com/Other/still-in-france/i-5PXSwfx/0/M/DSC8580-M.jpg">](http://vaevictis.smugmug.com/Other/still-in-france/22329480_nFfrLV)
+
 Ca y est.
 <br />
 <br />
