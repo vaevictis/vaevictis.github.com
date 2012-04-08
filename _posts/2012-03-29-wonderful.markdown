@@ -16,7 +16,7 @@ Alors un peu en vrac.
 <br />
 
 Jonathon, bien sûr. Mon contact avant de toucher le sol neo-zélandais, et un gars super une fois passés les premiers moments. Multitask-jon comme le surnomme sa copine Zoë. Ses colocataires, aussi, et l'auberge espagnole qui s'y réunit.
-Kalt, le floridien pécheur sous-marin. Bella, l'argentine (espagnole ?) installée ici depuis 6 ans). Les inconnus ou presque : Walt, Tiffany, Matt.
+Kolt, le floridien pécheur sous-marin. Bella, l'argentine (espagnole ?) installée ici depuis 6 ans. Les inconnus ou presque : Walt, Tiffany, Matt.
 La colocataire de Zoë, Lisa, chez qui nous sommes rentrés dormir avec Jon et cette dernière. Super adorable, ancienne vadrouilleuse en Italie. Un plaisir de discuter avec elle pendant que Jon et Zoë écoutaient un de leurs potes dans la fabrication de green roofs. En France, on appelle ça des toitures-terrasses végétalisées, je crois.
 <br />
 <br />
