@@ -101,7 +101,9 @@ h2 {
 #posts img {
   vertical-align: top;
   float: right;
-  width: 200px;
+  border-top: 1px solid #d81e05;
+  border-left: 1px solid #d81e05;
+  padding: 3px 0 0 3px;
 }
 
 #posts a.more,
@@ -138,6 +140,10 @@ h2 {
   font-weight: bold;
   margin-right: 20px;
   color: #4d4d4d;
+}
+
+#posts p a:hover {
+  color: #ff9011;
 }
 
 #posts p.tags a {
