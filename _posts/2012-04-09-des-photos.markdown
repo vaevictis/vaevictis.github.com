@@ -15,7 +15,7 @@ Aujourd'hui, je pourrais bien raconter mon tour de la presqu'île de Miramar à 
 <br />
 <br />
 
-Bref, j'ai déjà dit tout ce qu'il y avait à dire, donc il fallait bien que je trouve autre chose sur quoi développer. Et bien c'est facile.
+Euh... Je viens de raconter l'essentiel de mes derniers jours, je peux me permettre de traiter un autre sujet : les photos.
 <br />
 <br />
 
