@@ -15,7 +15,7 @@ Aujourd'hui, je pourrais bien raconter mon tour de la presqu'île de Miramar à 
 <br />
 <br />
 
-Euh... Je viens de raconter l'essentiel de mes derniers jours, je peux me permettre de traiter un autre sujet : les photos.
+Euh... Je viens de raconter l'essentiel de mes derniers jours. Je peux me permettre de traiter un autre sujet : les photos.
 <br />
 <br />
 
@@ -41,8 +41,6 @@ Enjoy !
 [Monochrome](http://vaevictis.smugmug.com/Realpeople-newzealands/realpeople-newzealand/22329377_7HwJVP)
 
 [Auckland](http://vaevictis.smugmug.com/Urban-walks/Auckland/22331651_jBWDLM)
-
-[Bistrot d'Emile](http://vaevictis.smugmug.com/Damn-you-hierarchical/bistrot-demile/22343238_SqB4rj)
 
 [Stills in france](http://vaevictis.smugmug.com/Damn-you-hierarchical/still-in-france/22329480_nFfrLV)
 
