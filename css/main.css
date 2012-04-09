@@ -47,12 +47,15 @@ a {
 }
 
 h1 {
-  color: #ccc;
-  font-size: 34px;
-  font-weight: bold;
   margin-bottom: 50px;
   height: 140px;
   background: url(../images/layout/red_square.jpg) right 1px no-repeat;
+}
+
+h1 a {
+  color: #ccc;
+  font-size: 34px;
+  font-weight: bold;
 }
 
 h1 span {
@@ -72,7 +75,7 @@ h2 {
   clear: left;
   margin-bottom: 40px;
 }
-#posts div.titles {
+#posts a.titles {
   float: left;
 }
 
