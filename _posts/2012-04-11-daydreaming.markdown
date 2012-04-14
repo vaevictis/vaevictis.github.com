@@ -10,6 +10,7 @@ published: true
 Je marchais sur les quais hier. La nuit était en train de tomber. J'avais fait de l'escalade entre midi et 2, j'étais bien vanné. J'avais un [petit air](http://www.youtube.com/embed/6hak-pw9cR0?rel=0) dans la tête.
 <br />
 <br />
+
 C'était planant comme moment.
 <br />
 <br />
