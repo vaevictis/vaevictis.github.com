@@ -13,6 +13,10 @@ a {
   color: #d81e05;
 }
 
+em {
+  font-style: italic;
+}
+
 #navigation {
   border-bottom: 1px solid #ccc;
   padding-bottom: 1px;
@@ -75,6 +79,7 @@ h2 {
   clear: left;
   margin-bottom: 40px;
 }
+
 #posts a.titles {
   float: left;
 }
