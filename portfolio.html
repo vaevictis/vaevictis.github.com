@@ -11,7 +11,14 @@ title: Portfolio
 <div id="portfolio">
 	<h2>Portfolio</h2>
 
-	<div class="chapter">
+	<ul class="subnav">
+		<li> <a href="#scroll_1">iCroissants</a></li>
+		<li><a href="#scroll_2">EIME</a></li>
+		<li><a href="#scroll_3">drimki.fr</a></li>
+		<li class="last"><a href="#scroll_4">INRIA</a></li>
+	</ul>
+
+	<div class="chapter" id="scroll_1">
 		<h3>iCroissants</h3>
 		<p>
 			Simple internal project at <a href="http://www.sogilis.com">Sogilis</a> designed to help us have a steady weekly flow of cakes, croissants and sweet food at least once a week.
@@ -26,7 +33,7 @@ title: Portfolio
 		</p>
 	</div>
 
-	<div class="chapter">
+	<div class="chapter" id="scroll_2">
 		<h3>EIME</h3>
 		<p>
 			Environmental Improvement Made Easy. Development was not ! A huge web base data cruncher. This is an environmental assessment tool, which quantifies the impact of building anything. It takes into account a product life cycle from the resources mining to its recycling, burning or landfilling.
@@ -41,8 +48,8 @@ title: Portfolio
 		</p>
 	</div>
 
-	<div class="chapter">
-		<h3>Drimki.fr</h3>
+	<div class="chapter" id="scroll_3">
+		<h3>drimki.fr</h3>
 		<p>
 			Real estates web application. From estimate to sale management. Design changed all the time.
 		</p>
@@ -55,7 +62,7 @@ title: Portfolio
 		</p>
 	</div>
 
-	<div class="chapter">
+	<div class="chapter" id="scroll_4">
 		<h3>INRIA</h3>
 		<p>
 			A few different projects there, all executed in a totally autonomous context. Helpdesk, digital assets management and internal visual messaging system.
@@ -68,3 +75,13 @@ title: Portfolio
 			I did everything. From concept meetings to deployment.
 		</p>
 	</div>
+
+<script type="text/javascript" charset="utf-8">
+
+	$(".subnav li").click(function() {
+
+	});
+
+
+
+</script>

@@ -6,13 +6,39 @@
   font-size: 26px;
 }
 
-#portfolio p,
-#portfolio ul {
+#portfolio p {
   border-left: 2px solid #d81e05;
   margin-left: 210px;
   padding-left: 10px;
 }
 
+#portfolio ul.subnav {
+  margin-left: 224px;
+  color: #4d4d4d;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#portfolio ul.subnav li {
+  display: inline-block;
+  margin-right: 159px;
+}
+
+#portfolio ul.subnav li.last {
+  margin-right: 0;
+}
+#portfolio ul.subnav li a {
+  color: #4d4d4d;
+}
+
+#portfolio ul.subnav li a:hover {
+  border-bottom: 3px solid #4d4d4d;
+}
+
 #portfolio div.chapter {
   margin-top: 20px;
+}
+
+#portfolio div.chapter {
+  display: inline-block;
 }
