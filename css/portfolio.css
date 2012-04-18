@@ -1,3 +1,11 @@
+#portfolio {
+  width: 4000px;
+  border: 1px solid red;
+}
+#portfolio .chapter {
+ width: 950px;
+}
+
 #portfolio h3 {
   font-weight: bold;
   float: left;
@@ -36,6 +44,8 @@
 }
 
 #portfolio div.chapter {
+  vertical-align: top;
+  border: 1px solid yellow;
   margin-top: 20px;
 }
 

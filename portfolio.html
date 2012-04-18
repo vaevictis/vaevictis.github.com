@@ -12,10 +12,10 @@ title: Portfolio
 	<h2>Portfolio</h2>
 
 	<ul class="subnav">
-		<li> <a href="#scroll_1">iCroissants</a></li>
-		<li><a href="#scroll_2">EIME</a></li>
-		<li><a href="#scroll_3">drimki.fr</a></li>
-		<li class="last"><a href="#scroll_4">INRIA</a></li>
+		<li> <a href="#scroll_1" id="scroll_link_1">iCroissants</a></li>
+		<li><a href="#scroll_2" id="scroll_link_2">EIME</a></li>
+		<li><a href="#scroll_3" id="scroll_link_3">drimki.fr</a></li>
+		<li class="last"><a href="#scroll_4" id="scroll_link_4">INRIA</a></li>
 	</ul>
 
 	<div class="chapter" id="scroll_1">
@@ -77,11 +77,13 @@ title: Portfolio
 	</div>
 
 <script type="text/javascript" charset="utf-8">
+	$(document).ready(function(){
+		$(".chapter").hide();
+		$("#scroll_1").show();
 
-	$(".subnav li").click(function() {
-
+		$("#scroll_link_2").click(function() {
+			$("#scroll_1").hide("slide", { direction: "left" }, 1000);
+			$("#scroll_2").show("slide", { direction: "right" }, 1000);
+		});
 	});
-
-
-
 </script>
