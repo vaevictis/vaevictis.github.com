@@ -39,7 +39,7 @@ J'ai dit que j'avais commencé à bosser. Explications.
 <br />
 <br />
 
-J'ai embarqué 10 jours après la mise en prod programmée de [chinadialogue](http://li210-190.members.linode.com/) sur ce projet pour faire 1 à 2 semaines de bugfix intensif. Autant dire que c'est du boulot de singe codeur. Je bosse en décalé avec des gens qui sont à Londres, en Italie, et en Arabie Saoudite. En voyant le code existant (3ème version, 2ème re-écriture depuis 0), on comprend tout de suite qu'il y a des gens qui ne comprennent vraiment pas la leçon. Leur truc se petit-suissidera dans quelques mois. Metrique classique du projet qui ne peut pas marcher : sur le diagramme de l'équipe, il y a 4 managers pour un développeur.
+J'ai embarqué 10 jours après la mise en prod programmée de [chinadialogue](http://li210-190.members.linode.com/) sur ce projet pour faire 1 à 2 semaines de bugfix intensif. Autant dire que c'est du boulot de singe codeur. Je bosse en décalé avec des gens qui sont à Londres, en Italie, et en Arabie Saoudite. En voyant le code existant (3ème version, 2ème re-écriture depuis 0), on comprend tout de suite qu'il y a des gens qui, eux, ne comprennent vraiment pas la leçon. Leur truc se petit-suissidera dans quelques mois. Metrique classique du projet qui ne peut pas marcher : sur le diagramme de l'équipe, il y a 4 managers pour un développeur. Le pauvre.
 <br />
 <br />
 
@@ -47,7 +47,7 @@ Bref, ça paye le loyer.
 <br />
 <br />
 
-Je commence à réfléchir à la suite de mon voyage, aussi. Je n'ai pas l'intention de rester vivre à Welly tout le temps. Je commence à réfléchir à aller poser mes valises pour genre 1 mois vers Juillet / Août dans l'île du Sud. Au programme : ski, rando et photos.
+Je commence à réfléchir à la suite de mon voyage, aussi. Je n'ai pas l'intention de rester vivre à Welly tout le temps. J'envisage d'aller poser mes valises pour  1 mois vers Juillet / Août dans l'île du Sud. Au programme : ski, rando et photos. On verra bien.
 <br />
 <br />
 
@@ -55,4 +55,4 @@ A bientôt !
 <br />
 <br />
 
-Les photos associées, c'est un peu de tout. La balade en vélo de route, une ballade en vtt plus récente, une soirée jeux vidéo dans les locaux du boulot avec un collègue (le rasta) et ses potes, une rando au Mont Victoria avec un groupe d'inconnus... Mais pas de raton-laveur.
+Les photos associées, c'est un peu de tout. La balade en vélo de route, un tour de vtt plus récent, une soirée jeux vidéo dans les locaux du boulot avec un collègue (le rasta) et ses potes, une rando au Mont Victoria avec un groupe d'inconnus... Mais pas de raton-laveur.
