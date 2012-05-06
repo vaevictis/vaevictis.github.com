@@ -1,0 +1,58 @@
+---
+layout: detailed_post
+title: "Ao Tearoa"
+abstract: "Ao Tearoa. Le pays du long nuage blanc, en Maori. Je trouve ce mot très beau."
+published: true
+---
+
+[<img src="http://vaevictis.smugmug.com/Unclassified/box/i-Gz7k6Fg/0/S/DSC9967-S.jpg">] (http://vaevictis.smugmug.com/Unclassified/box/22663117_Sq7JW4#!i=1815682267&k=Gz7k6Fg)
+
+Ao Tearoa. Le pays du long nuage blanc, en Maori. Je trouve ce nom très beau.
+<br />
+<br />
+
+Je n'ai pas raconté grand chose ces derniers temps. La raison classique, c'est un emploi du temps bien chargé. Il y a 2 semaines, je me battais pour commencer à bosser, et depuis, ben je bosse.
+<br />
+<br />
+
+Je n'ai pas fait que ça. En vrac. J'ai bouffé du Marty McFly et son pote Doc lors d'une soirée intégrale *Retour vers le Futur* dans un salle issue de *Cinema Paradiso* (comprendre "à l'ancienne", munie des colonnes en pierre, de grands escaliers majestueux qui tournent, de niches autour de la salle), accompagné de Michael.
+<br />
+<br />
+
+Je suis allé faire un petit tour de vélo de route vers les banlieues de Wellington, puis le lendemain un premier tour de vrai vtt avec un collègue et une bande de cyclistes très diversifiés.
+<br />
+<br />
+
+J'ai bouffé mon premier blockbuster au cinéma 3D. Si si, je me suis appuyé sur un principe !
+<br />
+<br />
+
+Mes colocs allaient voir une avant-première d'[Avangers](http://fr.marvel.com/avengers/). Avec plein de gros son, des images en relief qui font mal au crâne et un scénario américain. Comprendre : des poursuites en voiture, des gens très forts qui sauvent le monde, un clown en collants bleus et bouclier stars & stripes, un porte avion furtif et volant... Et New York qui se fait démolir. Ben, c'est un peu comme le karting. Je me suis bien amusé et je ne regrette pas d'y être allé, mais c'est un autre cinéma.
+<br />
+<br />
+
+Avec les 2 suscités colocs, on se bouffe aussi du Ghost in the Shell en ce moment. En plus des films, il y a eu 2 saisons d'anime qui sont sorties, qui sont très bien et que je vous recommande chaudement. On avait prévu de les regarder tranquillement en évitant la surcharge. Ben... C'est pas encore ça. à coup de 6 épisodes par soir, ça passe assez vite !
+<br />
+<br />
+
+J'ai dit que j'avais commencé à bosser. Explications.
+<br />
+<br />
+
+J'ai embarqué 10 jours après la mise en prod programmée de [chinadialogue](http://li210-190.members.linode.com/) sur ce projet pour faire 1 à 2 semaines de bugfix intensif. Autant dire que c'est du boulot de singe codeur. Je bosse en décalé avec des gens qui sont à Londres, en Italie, et en Arabie Saoudite. En voyant le code existant (3ème version, 2ème re-écriture depuis 0), on comprend tout de suite qu'il y a des gens qui ne comprennent vraiment pas la leçon. Leur truc se petit-suissidera dans quelques mois. Metrique classique du projet qui ne peut pas marcher : sur le diagramme de l'équipe, il y a 4 managers pour un développeur.
+<br />
+<br />
+
+Bref, ça paye le loyer.
+<br />
+<br />
+
+Je commence à réfléchir à la suite de mon voyage, aussi. Je n'ai pas l'intention de rester vivre à Welly tout le temps. Je commence à réfléchir à aller poser mes valises pour genre 1 mois vers Juillet / Août dans l'île du Sud. Au programme : ski, rando et photos.
+<br />
+<br />
+
+A bientôt !
+<br />
+<br />
+
+Les photos associées, c'est un peu de tout. La balade en vélo de route, une ballade en vtt plus récente, une soirée jeux vidéo dans les locaux du boulot avec un collègue (le rasta) et ses potes, une rando au Mont Victoria avec un groupe d'inconnus... Mais pas de raton-laveur.
