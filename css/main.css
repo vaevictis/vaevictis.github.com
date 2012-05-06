@@ -40,6 +40,9 @@ em {
   text-decoration: none;
   margin-right: 150px;
 }
+#navigation li a#about_nav_link {
+  margin-right: 0;
+}
 
 #navigation li a:hover {
   border-bottom: 3px solid #d81e05;
@@ -113,6 +116,7 @@ div.titles {
   border-top: 1px solid #d81e05;
   border-left: 1px solid #d81e05;
   padding: 3px 0 0 3px;
+  margin-left: 5px;
 }
 
 #posts a.more,
