@@ -85,9 +85,9 @@ title: Portfolio
 $(document).ready(function(){
 	$('a[href^="#"]').click(function(){ 
 		var the_id = $(this).attr("href");
-		alert(the_id);
-		$('#viewport').animate({
-			scrollTop:$(the_id).offset().top
+		alert($(the_id).position().top);
+		$('#slide').animate({
+			scrollTop: $(the_id).position().top - $('#scroll_1').position().top
 		}, 'slow');
 	  return false;
 	});	
