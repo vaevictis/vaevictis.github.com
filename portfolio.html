@@ -23,7 +23,7 @@ title: Portfolio
 			<div class="chapter" id="scroll_1">
 				<h3>iCroissants</h3>
 				<p>
-					Simple internal project at <a href="http://www.sogilis.com">Sogilis</a> designed to help us have a steady weekly flow of cakes, croissants and sweet food at least once a week.
+					Simple internal project at <a href="http://www.sogilis.com">Sogilis</a> designed to help us have a steady flow of cakes, croissants and sweet food at least once a week.
 				</p>
 
 				<p>
@@ -38,7 +38,7 @@ title: Portfolio
 			<div class="chapter" id="scroll_2">
 				<h3>EIME</h3>
 				<p>
-					Environmental Improvement Made Easy. Development was not ! A huge web base data cruncher. This is an environmental assessment tool, which quantifies the impact of building anything. It takes into account a product life cycle from the resources mining to its recycling, burning or landfilling.
+					Environmental Improvement Made Easy. Development was not ! A huge web based data cruncher. This is an environmental assessment tool, which quantifies the impact of building anything. It takes into account a product life cycle from the resources mining to its recycling, burning or landfilling.
 				</p>
 
 				<p>
@@ -74,7 +74,7 @@ title: Portfolio
 				</p>
 
 				<p>
-					I did everything. From concept meetings to deployment.
+					I did everything. From conception meetings to basic icon design to deployment.
 				</p>
 			</div>
 		</div>
@@ -85,9 +85,8 @@ title: Portfolio
 $(document).ready(function(){
 	$('a[href^="#"]').click(function(){ 
 		var the_id = $(this).attr("href");
-		alert($(the_id).position().top);
-		$('#slide').animate({
-			scrollTop: $(the_id).position().top - $('#scroll_1').position().top
+		$('#viewport').animate({
+			scrollLeft: $(the_id).position().left - $('#scroll_1').position().left
 		}, 'slow');
 	  return false;
 	});	
