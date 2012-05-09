@@ -38,7 +38,10 @@ em {
   font-size: 16px;
   color: #4d4d4d;
   text-decoration: none;
-  margin-right: 150px;
+  margin-right: 140px;
+}
+#navigation li a#about_nav_link {
+  margin-right: 0;
 }
 #navigation li a#about_nav_link {
   margin-right: 0;
