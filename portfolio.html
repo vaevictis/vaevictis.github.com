@@ -18,72 +18,79 @@ title: Portfolio
 		<li class="last"><a href="#scroll_4" id="scroll_link_4">INRIA</a></li>
 	</ul>
 
-	<div class="chapter" id="scroll_1">
-		<h3>iCroissants</h3>
-		<p>
-			Simple internal project at <a href="http://www.sogilis.com">Sogilis</a> designed to help us have a steady weekly flow of cakes, croissants and sweet food at least once a week.
-		</p>
+	<div id="viewport">
+		<div id="slide">
+			<div class="chapter" id="scroll_1">
+				<h3>iCroissants</h3>
+				<p>
+					Simple internal project at <a href="http://www.sogilis.com">Sogilis</a> designed to help us have a steady weekly flow of cakes, croissants and sweet food at least once a week.
+				</p>
 
-		<p>
-			<img src="http://vaevictis.smugmug.com/Other/webwork/i-mRDw5dB/0/M/rankingfilled-M.png" alt="icroissants home page"/>
-		</p>
+				<p>
+					<img src="http://vaevictis.smugmug.com/Other/webwork/i-mRDw5dB/0/M/rankingfilled-M.png" alt="icroissants home page"/>
+				</p>
 
-		<p>
-			I integrated the graphist's layouts, experienced with CSS3 capabilities and refreshed my Javascript knowledge on this project.
-		</p>
+				<p>
+					I integrated the graphist's layouts, experienced with CSS3 capabilities and refreshed my Javascript knowledge on this project.
+				</p>
+			</div>
+
+			<div class="chapter" id="scroll_2">
+				<h3>EIME</h3>
+				<p>
+					Environmental Improvement Made Easy. Development was not ! A huge web base data cruncher. This is an environmental assessment tool, which quantifies the impact of building anything. It takes into account a product life cycle from the resources mining to its recycling, burning or landfilling.
+				</p>
+
+				<p>
+					<img src="http://vaevictis.smugmug.com/Other/webwork/i-D2JCDgv/0/M/home-M.png" alt="EIME designer page"/>
+				</p>
+
+				<p>
+					I worked on almost any and every part of this tool. From front-end integration to low level SQL requests optimization, deployment and everything inbetween.
+				</p>
+			</div>
+
+			<div class="chapter" id="scroll_3">
+				<h3>drimki.fr</h3>
+				<p>
+					Real estates web application. From estimate to sale management. Design changed all the time.
+				</p>
+				<p>
+					<img src="http://vaevictis.smugmug.com/Other/webwork/i-VmG3jq3/0/M/home2-M.png" alt="Drimki.fr home page"/>
+				</p>
+
+				<p>
+					I mostly worked on the front-end cross browser compliance.
+				</p>
+			</div>
+
+			<div class="chapter" id="scroll_4">
+				<h3>INRIA</h3>
+				<p>
+					A few different projects there, all executed in a totally autonomous context. Helpdesk, digital assets management and internal visual messaging system.
+				</p>
+				<p>
+					<img src="http://vaevictis.smugmug.com/Other/webwork/i-rN7xgvm/0/M/kermitt-M.png" alt="Kermitt assets page"/>
+				</p>
+
+				<p>
+					I did everything. From concept meetings to deployment.
+				</p>
+			</div>
+		</div>
 	</div>
 
-	<div class="chapter" id="scroll_2">
-		<h3>EIME</h3>
-		<p>
-			Environmental Improvement Made Easy. Development was not ! A huge web base data cruncher. This is an environmental assessment tool, which quantifies the impact of building anything. It takes into account a product life cycle from the resources mining to its recycling, burning or landfilling.
-		</p>
-
-		<p>
-			<img src="http://vaevictis.smugmug.com/Other/webwork/i-D2JCDgv/0/M/home-M.png" alt="EIME designer page"/>
-		</p>
-
-		<p>
-			I worked on almost any and every part of this tool. From front-end integration to low level SQL requests optimization, deployment and everything inbetween.
-		</p>
-	</div>
-
-	<div class="chapter" id="scroll_3">
-		<h3>drimki.fr</h3>
-		<p>
-			Real estates web application. From estimate to sale management. Design changed all the time.
-		</p>
-		<p>
-			<img src="http://vaevictis.smugmug.com/Other/webwork/i-VmG3jq3/0/M/home2-M.png" alt="Drimki.fr home page"/>
-		</p>
-
-		<p>
-			I mostly worked on the front-end cross browser compliance.
-		</p>
-	</div>
-
-	<div class="chapter" id="scroll_4">
-		<h3>INRIA</h3>
-		<p>
-			A few different projects there, all executed in a totally autonomous context. Helpdesk, digital assets management and internal visual messaging system.
-		</p>
-		<p>
-			<img src="http://vaevictis.smugmug.com/Other/webwork/i-rN7xgvm/0/M/kermitt-M.png" alt="Kermitt assets page"/>
-		</p>
-
-		<p>
-			I did everything. From concept meetings to deployment.
-		</p>
-	</div>
 
 <script type="text/javascript" charset="utf-8">
-	$(document).ready(function(){
-		$(".chapter").hide();
-		$("#scroll_1").show();
+$(document).ready(function(){
+	$('a[href^="#"]').click(function(){ 
+		var the_id = $(this).attr("href");
+		alert(the_id);
+		$('#viewport').animate({
+			scrollTop:$(the_id).offset().top
+		}, 'slow');
+	  return false;
+	});	
+});
 
-		$("#scroll_link_2").click(function() {
-			$("#scroll_1").hide("slide", { direction: "left" }, 1000);
-			$("#scroll_2").show("slide", { direction: "right" }, 1000);
-		});
-	});
 </script>
