@@ -16,10 +16,25 @@
   font-size: 26px;
 }
 
-#portfolio p {
+#portfolio p,
+#portfolio img {
   border-left: 2px solid #d81e05;
-  margin-left: 210px;
   padding-left: 10px;
+}
+
+#portfolio p {
+  margin-left: 210px;
+}
+
+#portfolio p:first-of-type {
+  padding-top: 20px;
+}
+
+#portfolio img {
+  margin-left: 10px;
+  margin-bottom: -2px;
+  padding-left: 75px;
+  max-height: 400px;
 }
 
 #portfolio ul.subnav {
@@ -34,9 +49,10 @@
   margin-right: 159px;
 }
 
-#portfolio ul.subnav li.last {
+#portfolio ul.subnav li:last-child {
   margin-right: 0;
 }
+
 #portfolio ul.subnav li a {
   color: #4d4d4d;
 }
