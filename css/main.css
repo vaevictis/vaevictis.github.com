@@ -181,6 +181,8 @@ div.titles {
 
 #experiences h3 {
   font-size: 17px;
+  max-width: 190px;
+  float: left;
 }
 
 #experiences h3 a {
@@ -198,6 +200,8 @@ div.titles {
 #experiences h4 {
   font-size: 14px;
   margin-top: 10px;
+  float: left;
+  clear: left;
 }
 
 #skills h3 {
