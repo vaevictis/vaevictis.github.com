@@ -1,7 +1,7 @@
 ---
 layout: detailed_post
 title: "Hawkes Bay"
-abstract: "Le week-end dernier, je n'étais pas sur Wellington. Je suis remonté au Sud, sur la côte Est de l'île du Nord (manque plus que l'ouest et on aura fait le tour !). Premier vrai trip depuis mon arrivée ici."
+abstract: "Le week-end dernier, je n'étais pas sur Wellington. Je suis remonté au Sud, sur la côte Est de l'île du Nord (manque plus que l'Ouest et on aura fait le tour !). Premier vrai trip depuis mon arrivée ici."
 published: true
 ---
 [<img src="http://vaevictis.smugmug.com/Landscape/Hawkes-bay/i-j4XRbxK/0/S/DSC2094-S.jpg">] (http://vaevictis.smugmug.com/Landscape/Hawkes-bay/23470212_zBhw4W#!i=1896671675&k=VFwrDX7)
