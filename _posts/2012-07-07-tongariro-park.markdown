@@ -37,7 +37,7 @@ Alors, après avoir vécu six ans à Grenoble, tellement près de certaines des 
 <br />
 <br />
 
-Je comprends un peu mieux les sudistes français qui ne faisaient pas la fine bouche alors que je ne skiais qu'avec des conditions optimales. Quand ya pas le choix, ya pas le choix.
+Je comprends un peu mieux les sudistes français qui ne faisaient pas la fine bouche (les parisiens non-plus, mais eux je ne les comprend pas) alors que je ne skiais qu'avec des conditions optimales. Quand ya pas le choix, ya pas le choix.
 <br />
 <br />
 
