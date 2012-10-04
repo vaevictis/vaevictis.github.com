@@ -4,13 +4,13 @@ title: "Un petit jeu"
 abstract: "Aujourd'hui, pour changer un peu, un petit jeu."
 published: true
 ---
-[<img src="http://vaevictis.smugmug.com/Unclassified/jeu/i-KGzGFWw/0/S/YOM3346-S.jpg">] (http://vaevictis.smugmug.com/Unclassified/jeu/25700545_dWbBHM#!i=2124115614&k=KGzGFWw)
+[<img src="http://vaevictis.smugmug.com/Unclassified/jeu/i-hhGsgGQ/0/M/YOM4137-M.jpg">] (http://vaevictis.smugmug.com/Unclassified/jeu/25700545_dWbBHM#!i=2124115925&k=hhGsgGQ)
 
-Aujourd'hui, pour changer un peu, un petit jeu.
+Aujourd'hui, pour changer un peu, un petit jeu. Explications.
 <br />
 <br />
 
-Une petite liste de photos issues de quelques-unes de mes dernières périgrinations. Soirées, week-ends, ballades urbaines...
+Une série de photos issues de quelques-unes de mes dernières pérégrinations. Soirées, week-ends, ballades urbaines...
 <br />
 <br />
 
@@ -18,10 +18,11 @@ Une liste de légendes. Plus ou moins farfelues, plus ou moins évidentes. A ass
 <br />
 <br />
 
-Félicitations à celui qui arrivera à me dire quelle image est mon fonds d'écran actuel :-)
+Et c'est tout. Faites le lien ! Félicitations à celui qui arrivera à me dire quelle image est mon fond d'écran actuel :-)
 <br />
 <br />
-Place aux au spectacle, donc. A essayer avec un peu de [The Heavy](http://www.youtube.com/watch?v=s-D4p5Qq3qo), extrait de la bande originale de _Borderlands 2_, jeu vidéo sur lequel mes collocs passent leurs soirées en ce moment.
+
+A essayer avec un peu de [The Heavy](http://www.youtube.com/watch?v=s-D4p5Qq3qo), extrait de la bande originale de _Borderlands 2_, jeu vidéo sur lequel mes collocs passent leurs soirées en ce moment. Un petit rock assez lent et mélancolique. Place aux au spectacle.
 <br />
 <br />
 
@@ -29,7 +30,7 @@ Place aux au spectacle, donc. A essayer avec un peu de [The Heavy](http://www.yo
 <br />
 <br />
 
-2 - Un crochet dans un chiotte. Ne demandez pas pourquoi j'ai eu envie de photographier un crochet dans chiotte.
+2 - Un crochet dans des toilettes. Ne demandez pas pourquoi j'ai eu envie de photographier un crochet dans des toilettes.
 <br />
 <br />
 
