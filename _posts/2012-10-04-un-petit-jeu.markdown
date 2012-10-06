@@ -22,7 +22,7 @@ Et c'est tout. Faites le lien ! Félicitations à celui qui arrivera à me dire 
 <br />
 <br />
 
-A essayer avec un peu de [The Heavy](http://www.youtube.com/watch?v=s-D4p5Qq3qo), extrait de la bande originale de _Borderlands 2_, jeu vidéo sur lequel mes collocs passent leurs soirées en ce moment. Un petit rock assez lent et mélancolique. Place aux au spectacle.
+A essayer avec un peu de [The Heavy](http://www.youtube.com/watch?v=s-D4p5Qq3qo), extrait de la bande originale de _Borderlands 2_, jeu vidéo sur lequel mes collocs passent leurs soirées en ce moment. Un petit rock assez lent et mélancolique. Place au spectacle.
 <br />
 <br />
 
@@ -70,7 +70,7 @@ A essayer avec un peu de [The Heavy](http://www.youtube.com/watch?v=s-D4p5Qq3qo)
 <br />
 <br />
 
-12 - Uh bagnard.
+12 - Un bagnard.
 <br />
 <br />
 
@@ -94,7 +94,7 @@ A essayer avec un peu de [The Heavy](http://www.youtube.com/watch?v=s-D4p5Qq3qo)
 <br />
 <br />
 
-18 - Une photo que je n'aurait pas cru possible à main levée.
+18 - Une photo que je n'aurais pas cru possible à main levée.
 <br />
 <br />
 
@@ -106,7 +106,7 @@ A essayer avec un peu de [The Heavy](http://www.youtube.com/watch?v=s-D4p5Qq3qo)
 <br />
 <br />
 
-21 - Une improbable scéance de mots croisés à 1h du mat'.
+21 - Une improbable séance de mots croisés à 1h du mat'.
 <br />
 <br />
 
