@@ -17,6 +17,10 @@ em {
   font-style: italic;
 }
 
+strong {
+  font-weight: bold;
+}
+
 #navigation {
   border-bottom: 1px solid #ccc;
   padding-bottom: 1px;
@@ -229,9 +233,6 @@ div.titles {
   margin-left :34px;
   padding-left: 6px;
   list-style-image: url(../images/layout/bullet_small.jpg);
-}
-#about strong {
-  font-weight: bold;
 }
 
 #skills div.chapter {
