@@ -12,7 +12,7 @@ J'en suis rentré il y a presque un mois, j'y retourne dans trois semaines, mais
 <br />
 
 Je n'avais pas la motivation de mettre à jour un tas de librairies nécessaires à la rédaction de mes bafouilles depuis la dernière mise à jour de mon système d'exploitation. Depuis que je n'ai plus besoin de ma machine perso pour bien faire mon boulot, celle-ci prend du retard au niveau outils de développement. Faut vraiment que j'unifie tout ça.
-C'est chose faite (ou presque), les non-informaticiens auront sans doutes adoré ce paragraphe. donc place au spectacle.
+C'est chose faite (ou presque), les non-informaticiens auront sans doute adoré ce paragraphe. Donc place au spectacle.
 <br />
 <br />
 
@@ -26,7 +26,7 @@ J'ai pris des notes au jour le jour, auxquelles j'ai juste passé un coup de bal
 
 **Premier jour.**
 
-Vol Wellington - Christchurch (là où ça à tremblé) sans histoire, à un gamin chialeur près. Christchurch. Son centre ville de conteneurs, très beau. Sérieusement. Les conteneurs ont été sciemment exploités avec goût et talent. Petit indien, café. Temps qui vire au vilain.
+Vol Wellington - Christchurch (là où ça a tremblé) sans histoire, à un gamin chialeur près. Christchurch. Son centre ville de conteneurs, très beau. Sérieusement. Les conteneurs ont été sciemment exploités avec goût et talent. Petit indien, café. Temps qui vire au vilain.
 
 En route pour Arthur's Pass. Il y a comme un air de déjà vu. Découverte du monte-charge de _Temple Basin_ qui accompagne la montée en mode rando. La Grave n'a qu'à bien se tenir en ce qui concerne les équipements roulants conformes niveau sécurité.
 
@@ -51,7 +51,7 @@ Bonne nuit
 
 Côte Ouest. Sous le soleil. Comme c'est trop bon ! Mer ventée, ciel bleu sans un nuage, petit dej' sur la plage, après une nuit à dormir comme des loirs dans un petit chemin isolé.
 
-Rando sur Franz Josef Glacier. Enfin, devant. Ca se couvre. Un autre kea Qui fait son show, espérant obtenir un bout de sandwich. Pas de pluie pendant la ballade. Mais on est vernis! Une improbable française en chaussures à talons, qui sent le parfum à 3km, et qui fait des photos avec Un iPad. Bizarre.
+Rando sur Franz Josef Glacier. Enfin, devant. Ca se couvre. Un autre kea qui fait son show, espérant obtenir un bout de sandwich. Pas de pluie pendant la ballade. Mais on est vernis! Une improbable française en chaussures à talons, qui sent le parfum à 3km, et qui fait des photos avec un iPad. Bizarre.
 <br />
 <br />
 
