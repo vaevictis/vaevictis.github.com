@@ -30,7 +30,7 @@ Vol Wellington - Christchurch (là où ça à tremblé) sans histoire, à un gam
 
 En route pour Arthur's Pass. Il y a comme un air de déjà vu. Découverte du monte-charge de _Temple Basin_ qui accompagne la montée en mode rando. La Grave n'a qu'à bien se tenir en ce qui concerne les équipements roulants conformes niveau sécurité.
 
-Soirée juste après le col. Il fait _froid_. Normalement le temps est clement demain. Restons calme, ça va bien se passer :-)
+Soirée juste après le col. Il fait _froid_. Normalement le temps est clément demain. Restons calme, ça va bien se passer :-)
 <br />
 <br />
 
