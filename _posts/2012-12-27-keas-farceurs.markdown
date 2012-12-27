@@ -1,7 +1,7 @@
 ---
 layout: detailed_post
 title: " Keas farceurs"
-abstract: "Un petit focus sur un animal natif de Nouvelle-Zélande, longuement rencontré lors de mon dernier voyage dans l'île du Sud: le _Kea_. Il s'agit d'un perroquet des montagnes, aussi sogrenu que cela paraisse..."
+abstract: "Un petit focus sur un animal natif de Nouvelle-Zélande, longuement rencontré lors de mon dernier voyage dans l'île du Sud: le Kea. Il s'agit d'un perroquet des montagnes, aussi sogrenu que cela paraisse..."
 published: true
 ---
 
