@@ -11,7 +11,7 @@ Un petit focus sur un animal natif de Nouvelle-Zélande, longuement rencontré l
 <br />
 <br />
 
-Le Kea, ce n'est pas un perroquet qui parle. Son truc à lui, c'est la curiosité. Une vieille cannette de Coca, un bout de sac brillant dans un coin, un morceau de tissus à la texture intéressante, une voiture au contenu inhabituel, des joints en caoutchouc ou des roues de secour, voici quelques examples de trucs qui attireront l'intérêt de cet oiseau espiègle.
+Le Kea, ce n'est pas un perroquet qui parle. Son truc à lui, c'est la curiosité. Une vieille cannette de Coca, un bout de sac brillant dans un coin, un morceau de tissus à la texture intéressante, une voiture au contenu inhabituel, des joints en caoutchouc ou des roues de secours, voici quelques examples de trucs qui attireront l'intérêt de cet oiseau espiègle.
 <br />
 <br />
 
