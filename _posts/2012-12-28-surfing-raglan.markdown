@@ -38,11 +38,11 @@ Je pars pour trois semaines dans l'inconnu. À l'échelle du grand saut que j'ai
 <br />
 <br />
 
-J'envisageais de vadrouiller et revenir sur Aukland autour du 31 décembre puis revadrouiller. Au final je vais sans doutes lâcher l'affaire et juste faire un grand tour du Northland, de Raglan (sud-ouest d'Auckland) à la péninsule des Coromandel (sud-est d'Auckland...) en passant par le cap Reinga, toooooout au nord de la Nouvelle-Zélande. Le réveillon du Jour de l'An, ça sera la où ça sera. J'imagine qu'en créchant dans des backpackers, je trouverai bien des gens qui auront envie de faire quelque chose.
+J'envisageais de vadrouiller et revenir sur Aukland autour du 31 décembre puis revadrouiller. Au final je vais sans doute lâcher l'affaire et juste faire un grand tour du Northland, de Raglan (sud-ouest d'Auckland) à la péninsule des Coromandel (sud-est d'Auckland...) en passant par le cap Reinga, toooooout au nord de la Nouvelle-Zélande. Le réveillon du Jour de l'An, ça sera là où ça sera. J'imagine qu'en créchant dans des backpackers, je trouverai bien des gens qui auront envie de faire quelque chose.
 <br />
 <br />
 
-Vingt minutes dans le bus qui m'emmène à l'aéroport et déjà la petite angoisse à laissé place à l'excitation du voyage.
+Vingt minutes dans le bus qui m'emmène à l'aéroport et déjà la petite angoisse a laissé place à l'excitation du voyage.
 <br />
 <br />
 
@@ -89,11 +89,11 @@ Ces quelques notes très décousues montrent un truc: à partir du moment où je
 <br />
 <br />
 
-Les cinq premiers jours à Auckland sont passés sans que j'ai le temps de me retourner. Avec Amandine, Claire et Alexis tout d'abord, voyageurs autour du monde rencontrés par le truchement de mon oncle. Discussions improbables autour des règles du cricket et réveillon du 24 décembre avec des crêpes, entre autres choses. Une immersion avec des _frenchies_ qui m'a fait bien plaisir en cette période.
+Les cinq premiers jours à Auckland sont passés sans que j'aie le temps de me retourner. Avec Amandine, Claire et Alexis tout d'abord, voyageurs autour du monde rencontrés par le truchement de mon oncle. Discussions improbables autour des règles du cricket et réveillon du 24 décembre avec des crêpes, entre autres choses. Une immersion avec des _frenchies_ qui m'a fait bien plaisir en cette période.
 <br />
 <br />
 
-Avec Jonathon et sa famille pour le 25 décembre ensuite. J'aurai du mal à décrire le plaisir que j'ai eu à être si bien entouré loin de mes proches.
+Avec Jonathon et sa famille pour le 25 décembre ensuite. J'aurais du mal à décrire le plaisir que j'ai eu à être si bien entouré loin de mes proches.
 <br />
 <br />
 
@@ -105,7 +105,7 @@ Je me suis très vite intégré (ou incrusté, au choix :-) ) dans un groupe de 
 <br />
 <br />
 
-Depuis, je suis repassé à Wellington pour vingt-quatre heures, le temps de faire un peu de lessive, plier le vélo, souffler un grand coup et repartir. Je suis désormais à Queenstown depuis lundi, avec mon fidèle destrier dont la compagnie aérienne a gentillement faussé la fourche pendant le transport.
+Depuis, je suis repassé à Wellington pour vingt-quatre heures, le temps de faire un peu de lessive, plier le vélo, souffler un grand coup et repartir. Je suis désormais à Queenstown depuis lundi, avec mon fidèle destrier dont la compagnie aérienne a gentiment faussé la fourche pendant le transport.
 <br />
 <br />
 
@@ -121,7 +121,7 @@ Retour à la <a href="#fr"><strong id="en">version française</strong></a>
 <br />
 <br />
 
-I hadn't felt the real summer heat since... August 2011. Almost eighteeen months. And with the _Good but not amazing_ Wellingtonian weather, I was seriously missing hot sand.
+I hadn't felt the real summer heat since... August 2011. Almost eighteen months. And with the _Good but not amazing_ Wellingtonian weather, I was seriously missing hot sand.
 <br />
 <br />
 
@@ -197,7 +197,7 @@ The first few days in Auckland went like a breeze. With Amandine, Claire and Ale
 <br />
 <br />
 
-With Jonathon and his family for Christmas Day then. I'd be in trouble trying to describe how good beeing welcomed by such a nice family was, while being so far away from my own one.
+With Jonathon and his family for Christmas Day then. I'd be in trouble trying to describe how good being welcomed by such a nice family was, while being so far away from my own one.
 <br />
 <br />
 
