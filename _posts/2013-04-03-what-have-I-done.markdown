@@ -18,7 +18,7 @@ Scroll to <strong id="fr"><a href="#en">English version</a></strong>
 
 3 mois. 3 mois sans rien publier. C'était mal parti. D'autant plus qu'après Raglan, je n'avais plus non-plus la motivation de refaire des photos. Les choses ont bien changé depuis.
 
-Je me suis remis à la photo il y a un mois et demi. Une soixantaine d'images. Parcours commenté.
+Je me suis remis à la photo il y a un mois et demi. Voici une soixantaine d'images. Parcours commenté.
 <br />
 <br />
 
@@ -93,6 +93,10 @@ Retour à la <a href="#fr"><strong id="en">version française</strong></a>
 <br />
 
 Three months. Three months without publishing anything. New year was starting quite poorly. Even more so that after Raglan, I had lost a bit of motivation for shooting. Things have changed a lot since then.
+<br />
+<br />
+
+I've started shooting again one month ago. Here's 60-ish pictures and some comments about them.
 <br />
 <br />
 
