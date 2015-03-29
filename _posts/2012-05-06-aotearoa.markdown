@@ -5,7 +5,7 @@ abstract: "Ao Tearoa. Le pays du long nuage blanc, en Maori. Je trouve ce mot tr
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Unclassified/box/i-Gz7k6Fg/0/S/DSC9967-S.jpg">] (http://vaevictis.smugmug.com/Unclassified/box/22663117_Sq7JW4#!i=1815682267&k=Gz7k6Fg)
+[<img src="http://vaevictis.smugmug.com/Unclassified/box/i-Gz7k6Fg/0/S/DSC9967-S.jpg">](http://vaevictis.smugmug.com/Unclassified/box/22663117_Sq7JW4#!i=1815682267&k=Gz7k6Fg)
 
 Ao Tearoa. Le pays du long nuage blanc, en Maori. Je trouve ce nom très beau.
 <br />

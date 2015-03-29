@@ -4,7 +4,7 @@ title: "Boost"
 abstract: "La quatrième semaine de mon nouveau boulot vient de se terminer. Bilan de ce premier mois chez Boost."
 published: true
 ---
-[<img src="http://vaevictis.smugmug.com/Realpeople-newzealands/boost/i-ppqxSpb/0/S/DSC2261-S.jpg">] (http://vaevictis.smugmug.com/Realpeople-newzealands/boost/23731771_PjKJqh#!i=1921850073&k=ppqxSpb)
+[<img src="http://vaevictis.smugmug.com/Realpeople-newzealands/boost/i-ppqxSpb/0/S/DSC2261-S.jpg">](http://vaevictis.smugmug.com/Realpeople-newzealands/boost/23731771_PjKJqh#!i=1921850073&k=ppqxSpb)
 
 La quatrième semaine de mon nouveau boulot vient de se terminer. Bilan de ce premier mois chez [Boost](http://www.boost.co.nz/).
 <br />

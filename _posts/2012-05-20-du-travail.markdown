@@ -5,7 +5,7 @@ abstract: "Mon quotidien professionel évolue un peu. Ca fera un bon point de d�
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Landscape/Makara/i-hgwrbDP/0/S/DSC0391-S.jpg">] (http://vaevictis.smugmug.com/Landscape/Makara/22969121_C7BDqP#!i=1846326445&k=hgwrbDP)
+[<img src="http://vaevictis.smugmug.com/Landscape/Makara/i-hgwrbDP/0/S/DSC0391-S.jpg">](http://vaevictis.smugmug.com/Landscape/Makara/22969121_C7BDqP#!i=1846326445&k=hgwrbDP)
 
 Mon quotidien professionel évolue un peu. Ca fera un bon point de départ pour raconter les quinze derniers jours.
 <br />

@@ -6,7 +6,7 @@ abstract: "A few months later, still no update... Life as moved on. Maybe it's t
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Travel/Japan/Favorites/i-jCJTZBG/0/S/DSC03837-S.jpg">] (http://vaevictis.smugmug.com/Travel/Japan/Favorites/i-jCJTZBG)
+[<img src="http://vaevictis.smugmug.com/Travel/Japan/Favorites/i-jCJTZBG/0/S/DSC03837-S.jpg">](http://vaevictis.smugmug.com/Travel/Japan/Favorites/i-jCJTZBG)
 
 
 A few months later, still no update... Life as moved on. Maybe it's time to formally shut this down. Or at least putting it into an unlimited sleep state.

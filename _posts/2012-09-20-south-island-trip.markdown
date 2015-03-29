@@ -4,7 +4,7 @@ title: "South island trip"
 abstract: "J'en parlais depuis un moment, c'est chose faite. Une semaine de congés, un van, un coin hyper réputé à visiter, une envie de skier avant la fin de l'hiver... Ma première virée dans l'île du Sud à finalement eu lieu. Ambiance."
 published: true
 ---
-[<img src="http://vaevictis.smugmug.com/Landscape/south-island/i-DPwHQPp/1/S/YOM6441-S.jpg">] (http://vaevictis.smugmug.com/Landscape/south-island/25394880_7CNWGj#!i=2089665429&k=DPwHQPp)
+[<img src="http://vaevictis.smugmug.com/Landscape/south-island/i-DPwHQPp/1/S/YOM6441-S.jpg">](http://vaevictis.smugmug.com/Landscape/south-island/25394880_7CNWGj#!i=2089665429&k=DPwHQPp)
 
 J'en parlais depuis un moment, c'est chose faite. Une semaine de congés, un van, un coin hyper réputé à visiter, une envie de skier avant la fin de l'hiver... Ma première virée dans l'île du Sud à finalement eu lieu. Ambiance.
 <br />

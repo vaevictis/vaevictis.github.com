@@ -5,7 +5,7 @@ abstract: "Je marchais dans la rue tout à l'heure. La nuit commençait à tombe
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Realpeople-newzealands/multichrome/i-NXVhKqf/0/S/DSC9891-S.jpg">] (http://vaevictis.smugmug.com/Realpeople-newzealands/multichrome/22332294_LwfFRh#!i=1790973444&k=NXVhKqf&lb=1&s=X2)
+[<img src="http://vaevictis.smugmug.com/Realpeople-newzealands/multichrome/i-NXVhKqf/0/S/DSC9891-S.jpg">](http://vaevictis.smugmug.com/Realpeople-newzealands/multichrome/22332294_LwfFRh#!i=1790973444&k=NXVhKqf&lb=1&s=X2)
 
 Je marchais sur les quais hier. La nuit était en train de tomber. J'avais fait de l'escalade entre midi et 2, j'étais bien vanné. J'avais un [petit air](http://www.youtube.com/embed/6hak-pw9cR0?rel=0) dans la tête.
 <br />

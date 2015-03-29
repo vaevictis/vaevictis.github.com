@@ -10,7 +10,7 @@ Three months. Three months without publishing anything. New year was starting qu
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Unclassified/what-have-I-done/i-FZsCwq6/0/S/YOM_1684-S.jpg">] (http://vaevictis.smugmug.com/Unclassified/what-have-I-done/28737063_SX2NGH)
+[<img src="http://vaevictis.smugmug.com/Unclassified/what-have-I-done/i-FZsCwq6/0/S/YOM_1684-S.jpg">](http://vaevictis.smugmug.com/Unclassified/what-have-I-done/28737063_SX2NGH)
 
 Scroll to <strong id="fr"><a href="#en">English version</a></strong>
 <br />

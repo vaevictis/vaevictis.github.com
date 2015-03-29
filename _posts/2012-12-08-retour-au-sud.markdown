@@ -5,7 +5,7 @@ abstract: "J'en suis rentré il y a presque un mois, j'y retourne dans trois sem
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Landscape/south-island-spring-trip/i-dhcfwJm/2/S/YOM_8319-S.jpg">] (http://vaevictis.smugmug.com/Landscape/south-island-spring-trip/26964212_t2J92t#!i=2260280042&k=dhcfwJm)
+[<img src="http://vaevictis.smugmug.com/Landscape/south-island-spring-trip/i-dhcfwJm/2/S/YOM_8319-S.jpg">](http://vaevictis.smugmug.com/Landscape/south-island-spring-trip/26964212_t2J92t#!i=2260280042&k=dhcfwJm)
 
 J'en suis rentré il y a presque un mois, j'y retourne dans trois semaines, mais c'est pas grave. Voici un compte-rendu de ma semaine passée entre Christchurch et Queenstown avec mon pôte Persyl.
 <br />

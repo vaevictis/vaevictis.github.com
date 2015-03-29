@@ -4,7 +4,7 @@ title: "Un petit jeu"
 abstract: "Aujourd'hui, pour changer un peu, un petit jeu."
 published: true
 ---
-[<img src="http://vaevictis.smugmug.com/Unclassified/jeu/i-hhGsgGQ/0/M/YOM4137-M.jpg">] (http://vaevictis.smugmug.com/Unclassified/jeu/25700545_dWbBHM#!i=2124115925&k=hhGsgGQ)
+[<img src="http://vaevictis.smugmug.com/Unclassified/jeu/i-hhGsgGQ/0/M/YOM4137-M.jpg">](http://vaevictis.smugmug.com/Unclassified/jeu/25700545_dWbBHM#!i=2124115925&k=hhGsgGQ)
 
 Aujourd'hui, pour changer un peu, un petit jeu. Explications.
 <br />

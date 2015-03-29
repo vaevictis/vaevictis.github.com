@@ -4,7 +4,7 @@ title: "Tongariro Park"
 abstract: "Une météo qui vire au soleil au dernier moment, un autre frenchie motivé pour bouger, les stations de ski ouvertes depuis une poignée de week-ends. Il n'en faut pas plus pour jeter mon sac à dos et un peu de bouffe dans le van de Renaud puis filer au nord."
 published: true
 ---
-[<img src="http://vaevictis.smugmug.com/Landscape/Tongariro-national-park/i-g6HNt82/0/M/DSC2791-M.jpg">] (http://vaevictis.smugmug.com/Landscape/Tongariro-national-park/24157006_4zFhtn#!i=1964007954&k=g6HNt82)
+[<img src="http://vaevictis.smugmug.com/Landscape/Tongariro-national-park/i-g6HNt82/0/M/DSC2791-M.jpg">](http://vaevictis.smugmug.com/Landscape/Tongariro-national-park/24157006_4zFhtn#!i=1964007954&k=g6HNt82)
 
 Une météo qui vire au soleil au dernier moment, un autre frenchie motivé pour bouger, les stations de ski ouvertes depuis une poignée de week-ends. Il n'en faut pas plus pour jeter mon sac à dos et un peu de bouffe dans le van de [Renaud](http://renaudgorrianz.wordpress.com/) puis filer au nord.
 <br />
