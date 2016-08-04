@@ -3,7 +3,23 @@
 }
 
 .fp__drag-and-drop {
-  top: 0px;
+  top: 10px;
+}
+
+.fp__drag-and-drop .hide-this {
+  padding: 20px 50px;
+}
+
+.fp__drag-and-drop--top .hide-this {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.fp__flex--margin {
+  top: 0;
+}
+.fp__branding, #branding {
+  display: none;
 }
 
 .mobile-navigation {
