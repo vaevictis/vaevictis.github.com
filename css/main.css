@@ -126,6 +126,10 @@ div.titles {
   margin-left: 5px;
 }
 
+#posts img.portrait {
+  max-width:  300px;
+}
+
 #posts a.more,
 #posts a.back {
   display: block;
