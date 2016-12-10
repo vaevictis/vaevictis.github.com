@@ -5,7 +5,7 @@ abstract: "Toujours rien de signé... Mais beaucoup d'inspiration, d'espoir tant
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Urban-walks/Wellington/i-WJ8zJ7f/0/S/DSC9720-S.jpg">](http://vaevictis.smugmug.com/Urban-walks/Wellington/22331655_LrDkQ4#!i=1784367780&k=WJ8zJ7f)
+[<img class="landscape" src="https://lh3.googleusercontent.com/Wqgu5fRDnlDTlbPSnGfBALHRX4FeoZSs5SFf78MXf5UX-xPkJBxBf1slcsNA-SUdxjrgUUolenyYpq_-_HjTy3ncoGYQshCRCjbeSwbsGH0W-VLgKeviOgo0SLeCzK41ABXNXEkg-jOnCGTSpbmcgQoH75iQ_X3UjmjSqkfEJ2apHbS4GBaBga7pg8gpDwkxOPUOEtrxNYHiy66LyABi-aYWLMTWr0xYaCyjG6BjDPhv7hhA1kj-rFRyWZz75_WIhi2OthgV-2r2D7QRzvHHQSWKqbbFmOGqvNlsETM2WArYFAZvGBVzh-VkRNrA-8glivQ_qI6J-QTooaMB_TBKeifKHcKMscuMa09ym-NVa0u9QEA0Lgd9vJVvRnkvRI6gOq_3J4p8PTVTucsu0afs7hCUkdXs1W7Zgon1eJSmPpbKuhG0fogVrXa1fUKCnV-lp7F9zYurjqI8EsYxbVpTeVZldum2L7HEuAgUAEKxcclfuDVzJfvymXm2yIbVH_gcEz4pU9O5fXmFrECXQ--nEVZU-n9MZ-OAi_tmDIUezuAE8Tu6ePyiIShnYyj2S9c1nLjvpa-LYggYFuzt0zdIAgXwLq1u0aHorEHqtiFAP7HQR-0g=w382-h253-no">](https://goo.gl/photos/t7VaqNLBe7h7CTyr5)
 
 
 Aujourd'hui, j'étais chez Enspiral.

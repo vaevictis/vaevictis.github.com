@@ -130,6 +130,10 @@ div.titles {
   max-width:  300px;
 }
 
+#posts img.landscape {
+  max-width: 400px;
+}
+
 #posts a.more,
 #posts a.back {
   display: block;
