@@ -5,7 +5,7 @@ abstract: "Une fois n'est pas coutume, je vais parler de photos."
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Damn-you-hierarchical/bistrot-demile/i-FSP6kK3/0/M/DSC6023-M.jpg">](http://vaevictis.smugmug.com/Damn-you-hierarchical/bistrot-demile/22343238_SqB4rj#!i=1785384280&k=FSP6kK3)
+[<img class="portrait" src="https://lh3.googleusercontent.com/vkmpf-yHEBOQg9zQLtf7R2f1tRxiOSVRIBtVBxOIfMLmXbTQGKd8GwFnAYStui757HPJ96zJKRHHSode30t6-oM_vMs3reQ_jvkdbPO-vJRTECYv1HcSi_0oK6tdsKBsHXceTXCJIQuICkPuyp9oJWsZsAF8LijGHQQmRM_LLcv_hmWUCO4OBxM_Wsdwu6cdjQa4BuwfOegBVGkrspEM9hic94MOCMZeBT1rqDfO24HglJIbZcL_Q4kWksh-IuCqr24oRyi-oqhDTQYEl3hz1FrCnWNDQDsdLzW1VIPIFmGVh2zHFNmfr-7iayqbCq5qfL_9dyV42SpcpE4A7_ersdzWbyJqopBo3sUjnVjsOGQCfTsUciBBJsmTLdgEHF-BnUAd7HejWLiUh1YVFfXFxTc6wJYUQ9MKS4jdz113HHVbLYpl8Dcc6i2geTSOFlS0wqkEPExfkHaEpiQMAwgJpASzOtc6fK2AlrWLkmK9kI9hSZJByN49x0UU5jOaDzfsN4F48MaBYClNX6bbrgizM7Iohmwgux6xZxgrr8rbbZVfI8kt_-Q99h26CW6sC2Bx7Yd-9rBi-zHSe3h0Bwp7Tl_oLaqIRmGwcxX5clBDuhnFqLEg5tNgxJupEAPwIb4MhIW_cJBVyU2iqDUvzS7t6-QTJUK-5QHYFsz2ajJmng=w1280-h1932-no">](https://goo.gl/photos/TJAEMDCdDEPEkxjT7)
 
 Une fois n'est pas coutume, je vais parler de photos.
 <br />

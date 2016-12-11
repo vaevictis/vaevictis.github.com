@@ -5,7 +5,7 @@ abstract: "Je marchais dans la rue tout à l'heure. La nuit commençait à tombe
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Realpeople-newzealands/multichrome/i-NXVhKqf/0/S/DSC9891-S.jpg">](http://vaevictis.smugmug.com/Realpeople-newzealands/multichrome/22332294_LwfFRh#!i=1790973444&k=NXVhKqf&lb=1&s=X2)
+[<img class="landscape" src="https://lh3.googleusercontent.com/w5ZNdqZTbvQpuVSMSkVIyKpwji1FHrp_Y_xf358CqGtDEUNb-tWjNc3p34nzmFkOfzXlw88iIqdDQzMH3DXeRfip97bKByOupmQdh5FymbWOEgwW10mVoN1e14s3w5ayT9Zf6RCV17RdhIW-GnlBV7A3H8HAeqLxS5q5ffR5W_hdTEYWAv-I_vWNfKezu7BbYz2mCnR0dAobD6ofysTSTaaZxT2ueHSIuundkgjcmm4uCYTHQhB3G8Sv0eCjkvOu-osdcJcWflR3g_G87mZ5J9X2szBK1vSjaFf-DBfZp9vxcUZfyix1qAzbQkyDFRdyaxqAKxSoI9jcITWJySPa-MzhbH0jisZgX4jh0IDC8l6OjUe_09RKQs5TA_fMx6lRgfE3ZLOId38C0MLgNj4go1bHYMeFyIcCefvUHEEmaVRQWzkKaOYZCWR6GZnmbtl-9w4bqMIaxVnL07Gi_sA2-FVnI2RjZUcX5VkW0o0YWpbcgVZ9_sqb4FXy_myXzDGdBHhFm4v8HOl4Zm6lSyjQ-BkI_7Sn3yuRI2Tsgi7YF3yU6yvW8kEf7IGbESKgz7OAQbGhubwLHVV2QSbirevElcnWiXOT-aRp7Y24UXyD6VoN3nMPxah5K9KWkjhhrJrCWlq-Mev72eLjab1zxHIdiy29u8RB1sNg26e-GPzItQ=w2162-h1434-no">](https://goo.gl/photos/FinWZZ5NWwWc8DB16)
 
 Je marchais sur les quais hier. La nuit était en train de tomber. J'avais fait de l'escalade entre midi et 2, j'étais bien vanné. J'avais un [petit air](http://www.youtube.com/embed/6hak-pw9cR0?rel=0) dans la tête.
 <br />
