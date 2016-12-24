@@ -39,7 +39,7 @@ J'ai dit que j'avais commencé à bosser. Explications.
 <br />
 <br />
 
-J'ai embarqué 10 jours après la mise en prod programmée de [chinadialogue](http://li210-190.members.linode.com/) sur ce projet pour faire 1 à 2 semaines de bugfix intensif. Autant dire que c'est du boulot de singe codeur. Je bosse en décalé avec des gens qui sont à Londres, en Italie, et en Arabie Saoudite. En voyant le code existant (3ème version, 2ème re-écriture depuis 0), on comprend tout de suite qu'il y a des gens qui, eux, ne comprennent vraiment pas la leçon. Leur truc se petit-suissidera dans quelques mois. Metrique classique du projet qui ne peut pas marcher : sur le diagramme de l'équipe, il y a 4 managers pour un développeur. Le pauvre.
+J'ai embarqué 10 jours après la mise en prod programmée de [chinadialogue](http://chinadialogue.net) sur ce projet pour faire 1 à 2 semaines de bugfix intensif. Autant dire que c'est du boulot de singe codeur. Je bosse en décalé avec des gens qui sont à Londres, en Italie, et en Arabie Saoudite. En voyant le code existant (3ème version, 2ème re-écriture depuis 0), on comprend tout de suite qu'il y a des gens qui, eux, ne comprennent vraiment pas la leçon. Leur truc se petit-suissidera dans quelques mois. Metrique classique du projet qui ne peut pas marcher : sur le diagramme de l'équipe, il y a 4 managers pour un développeur. Le pauvre.
 <br />
 <br />
 
