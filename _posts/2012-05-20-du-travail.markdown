@@ -5,7 +5,7 @@ abstract: "Mon quotidien professionel évolue un peu. Ca fera un bon point de d�
 published: true
 ---
 
-[<img src="http://vaevictis.smugmug.com/Landscape/Makara/i-hgwrbDP/0/S/DSC0391-S.jpg">](http://vaevictis.smugmug.com/Landscape/Makara/22969121_C7BDqP#!i=1846326445&k=hgwrbDP)
+[<img class="landscape" src="https://lh3.googleusercontent.com/Tt3-wJRFwRqmuRtABmC4NItJ1erKQAb4sg5dnwjCNZeb3pG59005gcoMK-9vCGSF0zHK1FmjbiepxqsmP_-vCxlhY6iHPCSJAeovJbDXTd3uW5_PCXB3Pok3Vf_biDRHMbywNHBxZMQF4fMZOx-i_4-uxrK0IERDCgni_8_-tOoQ9m9OzSrrYL2ZZxIJKa0pVjhOa4rd16C3x-His2Evqf-Cr1RWZosiRaNrOBYC8N-3A5LIVH1bCH4dU8r5ISeZ7VhQo7Lc7whkesAkWkIcCkgm11_rGUM0wT_mlVY-T7qQa0xCJ3BD1HlCFRIgsN2rQPsPcXmdIv4CKcpII2qOJKlLPH7E9M460ZAhjCoSnvJdgAgbew1A-O0uIy4rQpzFzE6OL6MqBcgdXZg0TVP1Epc3Zjx08F4aEtrPmLHMqQEbqJLIler_o9DJUcZ_PWE5MUhk04yUJiZPkCf498YZnxK9IISoljyKEMQ1NhanlfeamucvJRXOye7rldkOWnJWMtvfp4lde_pph_bOSpJiHAekxO-LU45MUcqk24gtTNFOx5CwytbBx2maTmOyJr5CutPnZ374IzopepOvEVnFGg6y5fiKhcns5ZVtfciBb6qR5iQl6i0A=w585-h387-no">](https://goo.gl/photos/cpeGKTQbqqEjStLt7)
 
 Mon quotidien professionel évolue un peu. Ca fera un bon point de départ pour raconter les quinze derniers jours.
 <br />
